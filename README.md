@@ -1,4 +1,4 @@
-# flutter_project
+A simple dice roller. 
 
 A new Flutter project.
 
